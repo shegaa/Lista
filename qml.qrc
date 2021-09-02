@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>slike/cetvrtaslika.jpg</file>
+        <file>slike/drugaslika.jpg</file>
+        <file>slike/petaslika.jpg</file>
+        <file>slike/prazno.png</file>
+        <file>slike/prvaslika.jpg</file>
+        <file>slike/trecaslika.jpg</file>
+        <file>Del.qml</file>
+        <file>slike/circle-png.png</file>
+        <file>slike/sudnjerbobClicked.png</file>
+        <file>slike/sundjerbob.png</file>
+        <file>slike/sundjerbobClicked.png</file>
+        <file>CustomButton.qml</file>
+        <file>slike/lightsteelblue.png</file>
+    </qresource>
+</RCC>
